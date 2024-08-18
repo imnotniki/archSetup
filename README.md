@@ -7,7 +7,7 @@ First of all you should get a working development enviornment.\
 sudo pacman -S base-devel gcc make pkg-config glib2 systemd-libs
 ```
 
-## Pacman
+## My essentials for pacman
 ```
-yay keepass jdk22-openjdk
+sudo pacman -S yay keepass jdk22-openjdk
 ```
