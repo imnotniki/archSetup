@@ -1,0 +1,2 @@
+# manjaroXFCE
+Files configs etc.
