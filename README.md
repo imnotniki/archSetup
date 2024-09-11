@@ -11,8 +11,5 @@ pamac install flatpak
 flatpak install com.obsproject.Studio
 ```
 ```shell
-flatpak install org.freedesktop.Platform.GStreamer.gstreamer-vaapi
-```
-```shell
-flatpak install com.obsproject.Studio.Plugin.Gstreamer
+flatpak install com.obsproject.Studio.Plugin.GStreamerVaapi
 ```
