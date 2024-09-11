@@ -8,10 +8,7 @@ OBS Studio + plugins
 pamac install flatpak
 ```
 ```shell
-sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
-```
-```shell
-flatpak install flathub com.obsproject.Studio
+flatpak install com.obsproject.Studio
 ```
 ```shell
 flatpak install org.freedesktop.Platform.GStreamer.gstreamer-vaapi
