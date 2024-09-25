@@ -2,7 +2,7 @@ Just some tweaks I like to do:
 
 Tweak | File | Description
 --- | --- | ---
-1 | [KeyRemaps] https://github.com/imnotniki/archSetup/tree/main/~/.config/keyboard) | Swap some keys on my keyboard
+1 | [KeyRemaps](https://github.com/imnotniki/archSetup/tree/main/~/.config/keyboard) | Swap some keys on my keyboard
 2 | [Shortcuts XFCE4](https://github.com/imnotniki/archSetup/blob/main/~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml) | My Keyboard shortcuts for XFCE4 DE
 
 Keyboard Tweaks
