@@ -2,7 +2,7 @@ Just some tweaks I like to do:
 
 Tweak | File | Description
 --- | --- | ---
-1 | [Insert2End](https://github.com/imnotniki/archSetup/blob/main/etc/X11/xorg.conf.d/00-keyboard.conf) | Swap "Insert" key with "End" key
+1 | [KeyRemaps] https://github.com/imnotniki/archSetup/tree/main/~/.config/keyboard) | Swap some keys on my keyboard
 2 | [Shortcuts XFCE4](https://github.com/imnotniki/archSetup/blob/main/~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml) | My Keyboard shortcuts for XFCE4 DE
 
 Keyboard Tweaks
