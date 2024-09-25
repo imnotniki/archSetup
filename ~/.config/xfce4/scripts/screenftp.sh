@@ -1,0 +1,1 @@
+FILE_PATH="$(date +%Y-%m-%d_%H-%M-%S).png" && xfce4-screenshooter -r -c -s "sftp://serverUsername@serverIP/var/www/url.de/share/$FILE_PATH" && echo "https://url.de/share/$FILE_PATH" | xclip -selection clipboard
