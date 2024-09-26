@@ -6,6 +6,8 @@ Tweak | File | Description
 2 | [Shortcuts XFCE4](https://github.com/imnotniki/archSetup/blob/main/~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml) | My Keyboard shortcuts for XFCE4 DE
 3 | [Screenshot Share](https://github.com/imnotniki/archSetup/blob/main/~/.config/xfce4/scripts/screenftp.sh) | Share screenshots using xfce4-screenshooter + FTP Server
 
+
+
 Keyboard Tweaks
 ===
 Install xev using pacman:
@@ -37,6 +39,9 @@ xev | grep -A2 'keycode'
 
 OBS Studio + plugins
 ===
+
+**Use this encoder on obs if u have AMD**
+ffmpeg vaapi hvenc
 
 ```shell
 pamac install flatpak
