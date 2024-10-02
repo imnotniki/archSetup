@@ -8,6 +8,13 @@ Tweak | File | Description
 
 
 
+
+Wacom Settings
+===
+xinput | grep Wacom
+xinput map-to-output {id} DisplayPort-0
+xsetwacom set "Wacom Bamboo Connect Pen stylus" Area 920 575 6440 4025
+
 Keyboard Tweaks
 ===
 Install xev using pacman:
