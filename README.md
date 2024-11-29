@@ -59,3 +59,14 @@ flatpak install com.obsproject.Studio
 ```shell
 flatpak install com.obsproject.Studio.Plugin.GStreamerVaapi
 ```
+Make RuneLite use GPU properly
+===
+
+**Use this encoder on obs if u have AMD**
+Add this to .bashrc or .zshrc 
+
+```shell
+export LIBVA_DRIVER_NAME=radeonsi
+export LIBVA_DRIVERS_PATH=/usr/lib/dri
+export MESA_LOADER_DRIVER_OVERRIDE=radeonsi
+```
